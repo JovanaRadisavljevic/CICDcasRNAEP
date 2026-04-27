@@ -2,7 +2,7 @@ name: CI
 #ovo je fajl koji ce da pokrene testove 
 #kroz github akcije
 on: 
-  pull-request:
+  pull_request:
     branches: [main]
 jobs:
   build-and-test:
