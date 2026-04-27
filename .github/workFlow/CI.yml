@@ -1,5 +1,6 @@
 name: CI
-
+#ovo je fajl koji ce da pokrene testove 
+#kroz github akcije
 on: 
   pull-request:
     branches: [main]
